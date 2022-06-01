@@ -37,7 +37,7 @@ override.tf.json
 # example: *tfplan*
 
 .DS_Store
-proxy.drawio
+eks_net.drawio
 
 #aws auth
 aws-auth-configmal.yaml
